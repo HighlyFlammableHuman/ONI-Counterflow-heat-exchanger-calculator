@@ -5,3 +5,5 @@ That's all I've got to say, I think
 First project btw!
 
 If you encounter any problems, tell me, I'll try to fix it
+
+[Download the calculator](./calculator.py)
