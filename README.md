@@ -6,4 +6,4 @@ First project btw!
 
 If you encounter any problems, tell me, I'll try to fix it
 
-[Download the calculator](./https://github.com/HighlyFlammableHuman/ONI-Counterflow-heat-exchanger-calculator/blob/main/counterflow_HX_oni.py)
+[Download the calculator]([./https://github.com/HighlyFlammableHuman/ONI-Counterflow-heat-exchanger-calculator/blob/main/counterflow_HX_oni.py](https://github.com/HighlyFlammableHuman/ONI-Counterflow-heat-exchanger-calculator/blob/main/counterflow_HX_oni.py))
